@@ -1,2 +1,2 @@
 # demo
-author - shruti 
+Author - shruti 
